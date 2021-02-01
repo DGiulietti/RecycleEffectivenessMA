@@ -1,0 +1,39 @@
+DP05_0004E,DP05,Estimate!!SEX AND AGE!!Total population!!Sex ratio (males per 100 females),Sex ratio (males per 100 females)
+DP05_0018E,DP05,Estimate!!SEX AND AGE!!Total population!!Median age (years),Median Age (years)
+DP05_0064PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!White,% White
+DP05_0065PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!Black or African American,% Black or African American
+DP05_0066PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native,% American Indian and Alaska Native
+DP05_0067PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!Asian,% Asian
+DP05_0068PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,% Native Hawaiian and Other Pacific Islander
+DP05_0069PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!Some other race,% Some other race
+DP05_0071PE,DP05,Percent!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),% Hispanic or Latino (of any race)
+DP04_0001E,DP04,Estimate!!HOUSING OCCUPANCY!!Total housing units,Total housing units
+DP04_0002PE,DP04,Percent!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,Occupied housing units %
+DP04_0003PE,DP04,Percent!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units,Vacant housing units %
+DP04_0007PE,DP04,"Percent!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached","1-unit, detached %"
+DP04_0008PE,DP04,"Percent!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached","1-unit, attached %"
+DP04_0009PE,DP04,Estimate!!UNITS IN STRUCTURE!!Total housing units!!2 units,2 units %
+DP04_0010PE,DP04,Estimate!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units,% 3 or 4 units
+DP04_0011PE,DP04,Estimate!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units,% 5 to 9 units
+DP04_0012PE,DP04,Estimate!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units,% 10 to 19 units
+DP04_0013PE,DP04,Estimate!!UNITS IN STRUCTURE!!Total housing units!!20 or more units,% 20 or more units
+DP04_0014PE,DP04,Estimate!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,Mobile home %
+DP04_0015PE,DP04,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.","% Boat, RV, van, etc."
+DP04_0045PE,DP04,Estimate!!HOUSING TENURE!!Occupied housing units,Occupied housing units
+DP04_0046PE,DP04,Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,Owner-occupied
+DP04_0047PE,DP04,Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,Renter-occupied
+DP03_0009E,DP03,Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,Unemployment Rate
+DP03_0062E,DP03,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),Median household income (dollars)
+DP03_0063E,DP03,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),Mean household income (dollars)
+DP03_0119PE,DP03,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,%  families below poverty level
+DP03_0128PE,DP03,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,%  people below poverty level
+DP02_0059E,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,Population 25 years and over %
+DP02_0060PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,% Less than 9th grade
+DP02_0061PE,DP02,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma","% 9th to 12th grade, no diploma"
+DP02_0062PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),% High school graduate (includes equivalency)
+DP02_0063PE,DP02,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree","% Some college, no degree"
+DP02_0064PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,% Associate's degree
+DP02_0065PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,% Bachelor's degree
+DP02_0066PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,% Graduate or professional degree
+DP02_0067PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,% High school graduate or higher
+DP02_0068PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,% Bachelor's degree or higher
