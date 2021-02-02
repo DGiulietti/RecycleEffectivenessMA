@@ -50,3 +50,4 @@ Data I've collected related to recycling (`[u]` denotes what data has been used 
 * `[u]` Census ACS data for 2019, by "place" in the state of MA
   * various columns from groups DP02, DP03, DP04, and DP05
   * data cleaning and formatting can be see in `census.ipynb`
+* [2019 Voter registration data](https://www.sec.state.ma.us/ele/eleregistrationstats/registrationstats.htm) for MA
