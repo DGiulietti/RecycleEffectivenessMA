@@ -20,7 +20,7 @@ To make the data more approachable, only standard recycables are considered (e.g
 
 ## Content
 
-### Notebooks (as of 02/01/2020)
+### Notebooks (as of 02/13/2020)
 
 Please note that some notebooks or files are just for my reference. If a file or folder is not listed below, it's because it's not relevant at this stage in my project. **important note**: please do not share the any information found in `data/Residue_Rates`. This is not for public consumption.
 
