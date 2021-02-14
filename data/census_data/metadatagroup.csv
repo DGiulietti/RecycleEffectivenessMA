@@ -1,4 +1,5 @@
 ID,Group,orig_label,label
+DP05_0001E,DP05,Estimate!!SEX AND AGE!!Total population,KEY_total_population
 DP05_0004E,DP05,Estimate!!SEX AND AGE!!Total population!!Sex ratio (males per 100 females),males-to-100females
 DP05_0018E,DP05,Estimate!!SEX AND AGE!!Total population!!Median age (years),median_age
 DP05_0064PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!White,demo_white_%
@@ -8,7 +9,7 @@ DP05_0067PE,DP05,Percent!!Race alone or in combination with one or more other ra
 DP05_0068PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander,demo_native_islander%
 DP05_0069PE,DP05,Percent!!Race alone or in combination with one or more other races!!Total population!!Some other race,demo_other_Race_%
 DP05_0071PE,DP05,Percent!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race),demo_hispanic_latino_%
-DP04_0001E,DP04,Estimate!!HOUSING OCCUPANCY!!Total housing units,Total housing units
+DP04_0001E,DP04,Estimate!!HOUSING OCCUPANCY!!Total housing units,KEY_total_housing_units
 DP04_0002PE,DP04,Percent!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units,occupancy_%
 DP04_0007PE,DP04,"Percent!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached",1-unit_detached_%
 DP04_0008PE,DP04,"Percent!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached",1-unit_attached_%
@@ -21,11 +22,12 @@ DP04_0014PE,DP04,Estimate!!UNITS IN STRUCTURE!!Total housing units!!Mobile home,
 DP04_0015PE,DP04,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc.",boat_RV_van_%
 DP04_0046PE,DP04,Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied,owner-occupied_%
 DP04_0047PE,DP04,Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied,renter-occupied_%
+DP03_0001E,DP03,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over,KEY_pop_16_+
 DP03_0009PE,DP03,Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,unemployment_rate_%
 DP03_0062E,DP03,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars),median_household_income
 DP03_0063E,DP03,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars),mean_household_income
 DP03_0119PE,DP03,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,families_below_poverty_level_%
 DP03_0128PE,DP03,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,people_below_poverty_level_%
-DP02_0059E,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,population_25_and_older
+DP02_0059E,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,KEY_population_25_and_older
 DP02_0067PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,edu_high_school_and_higher_%
 DP02_0068PE,DP02,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,edu_bachelors_and_higher_%
