@@ -20,7 +20,7 @@ To make the data more approachable, only standard recycables are considered (e.g
 
 ## Content
 
-### Notebooks (as of 02/13/2020)
+### Notebooks (as of 02/16/2020)
 
 Please note that some notebooks or files are just for my reference. If a file or folder is not listed below, it's because it's not relevant at this stage in my project. **important note**: please do not share the any information found in `data/Residue_Rates`. This is not for public consumption.
 
@@ -29,9 +29,10 @@ Please note that some notebooks or files are just for my reference. If a file or
 * `cleanvoterdata.ipynb` -- short notebook to format and clean voter information per municipality. Not super important to understanding this project, so there is little commentary.
 * `indexmatching.ipynb` -- getting census data, voter data, and recycling survey data to match up by index. Not super important for understanding the project, so there is little commentary.
   * output was `data/combined_municipality_characteristics.csv` to be used in part 2
-* `part2.ipynb` (75% complete) -- clustering of municipalities based on primarily census data. Several clustering algorithms are explored in addition to feature importance using PCA.
+* `part2.ipynb` -- clustering of municipalities based on primarily census data. Several clustering algorithms are explored in addition to feature importance using PCA.
   * output was `data/cluster_data.csv` to be used in part 4
-* `part3.ipynb` (50% complete) -- setting up the service data for regression and model comparison within separate labels later (in part 4).
+* `part3.ipynb` -- setting up the service data for regression and model comparison within separate labels later (in part 4).
+  * output was `baseline_models_coefs.csvs` and `baseline_models_scores.csv` to be compared to in part 4.
 * `part4.ipynb` (25% complete)-- statistical assessment of recycling distributions within clusters as compared to the population. further comparison of trends within regression models of the clusters compared to the population
 * data/..
   * `MA_MSW_Collection_Data` -- includes all the csv's I created from the municipal recycling and trash services survey. This includes the tonnages of waste generated.
