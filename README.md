@@ -24,19 +24,19 @@ To make the data more approachable, only standard recycables are considered (e.g
 
 Please note that some notebooks or files are just for my reference. If a file or folder is not listed below, it's because it's not relevant at this stage in my project. **important note**: please do not share the any information found in `data/Residue_Rates`. This is not for public consumption.
 
-* `part1.ipynb` -- initial EDA of municipal recycling and trash tonnage generated per county in MA, along with some initial service information.
-* `census.ipynb` -- importing, trimming and formatting of census data from the ACS in 2019. Resulting tables to be used in further clustering analysis.
-* `cleanvoterdata.ipynb` -- short notebook to format and clean voter information per municipality. Not super important to understanding this project, so there is little commentary.
-* `indexmatching.ipynb` -- getting census data, voter data, and recycling survey data to match up by index. Not super important for understanding the project, so there is little commentary.
+* [part1.ipynb](part1.ipynb) -- initial EDA of municipal recycling and trash tonnage generated per county in MA, along with some initial service information.
+* [census.ipynb](census.ipynb) -- importing, trimming and formatting of census data from the ACS in 2019. Resulting tables to be used in further clustering analysis.
+* [cleanvoterdata.ipynb](cleanvoterdata.ipynb) -- short notebook to format and clean voter information per municipality. Not super important to understanding this project, so there is little commentary.
+* [indexmatching.ipynb](indexmatching.ipynb) -- getting census data, voter data, and recycling survey data to match up by index. Not super important for understanding the project, so there is little commentary.
   * output was `data/combined_municipality_characteristics.csv` to be used in part 2
-* `part2.ipynb` -- clustering of municipalities based on primarily census data. Several clustering algorithms are explored in addition to feature importance using PCA.
+* [part2.ipynb](part2.ipynb) -- clustering of municipalities based on primarily census data. Several clustering algorithms are explored in addition to feature importance using PCA.
   * output was `data/cluster_data.csv` to be used in part 4
-* `part3.ipynb` -- setting up the service data for regression and model comparison within separate labels later (in part 4).
-* `part3b.ipynb` -- I needed to take a new analytical approach with my baseline models attempted in part 3. This notebook looks at cross validation and removing the outliers.
+* [part3.ipynb](part3.ipynb) -- setting up the service data for regression and model comparison within separate labels later (in part 4).
+* [part3b.ipynb](part3b.ipynb) -- I needed to take a new analytical approach with my baseline models attempted in part 3. This notebook looks at cross validation and removing the outliers.
   * output was `baseline_models_coefs.csvs` and `baseline_models_scores.csv` to be compared to in part 4.
-* `part4.ipynb` -- statistical assessment of recycling distributions within clusters as compared to the population. 
-* `part4b.ipynb` -- further comparison of trends within regression models of the clusters compared to the population
-* data/..
+* [part4.ipynb](part4.ipynb) -- statistical assessment of recycling distributions within clusters as compared to the population. 
+* [part4b.ipynb](part4b.ipynb) -- further comparison of trends within regression models of the clusters compared to the population
+* `data/..`
   * `MA_MSW_Collection_Data` -- includes all the csv's I created from the municipal recycling and trash services survey. This includes the tonnages of waste generated.
   * `census_data` -- the csv's I generated from the Census API in the `census.ipynb` notebook
   * `MA_voting_info` -- voter registration per party per municipality
