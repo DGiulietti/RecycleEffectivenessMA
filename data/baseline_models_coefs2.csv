@@ -1,0 +1,44 @@
+,RFR,RFR_op,bagging,bagging_op,gradboost,gradboost_op
+Households Served by Municipal Recycling Program,0.16,0.158,0.163,0.158,0.16,0.24
+Tip Fee as of 1/1/2020,0.162,0.153,0.147,0.153,0.162,0.18
+PAYT/ SMART,0.218,0.211,0.218,0.211,0.218,0.094
+What is the annual fee?,0.041,0.043,0.04,0.042,0.041,0.05
+Fee for bulky waste?,0.013,0.014,0.011,0.013,0.013,0.036
+Does trash disposal tonnage include bulky waste?,0.021,0.017,0.027,0.016,0.021,0.031
+Applies to Residential Generators Eligible to be Served by Municipal Program,0.018,0.018,0.012,0.018,0.018,0.029
+Recycling Collection Frequency_Weekly,0.022,0.023,0.016,0.023,0.022,0.028
+Recycle Bin Size Ranking,0.021,0.019,0.018,0.02,0.021,0.027
+Recycling Collection Frequency_Bi-weekly,0.008,0.012,0.008,0.012,0.008,0.024
+What is the transfer station access fee?,0.058,0.053,0.076,0.054,0.058,0.023
+Trash Service Type_Curbside,0.009,0.01,0.009,0.011,0.009,0.021
+Recycling Enforced by Muni,0.009,0.012,0.011,0.012,0.009,0.021
+Carts for Recycling,0.009,0.008,0.005,0.007,0.009,0.02
+SS Recycling,0.015,0.016,0.016,0.016,0.015,0.018
+Business Trash and Recycling Service_Both,0.015,0.014,0.022,0.014,0.015,0.017
+Solid Waste program funded by property tax?,0.01,0.012,0.01,0.011,0.01,0.015
+Private Hauler regulations that require recycling,0.015,0.016,0.018,0.016,0.015,0.014
+School Trash and Recycling Service_Both,0.01,0.013,0.011,0.013,0.01,0.014
+Recycling Service Type_Both,0.005,0.006,0.007,0.006,0.005,0.013
+Maximum # bags/ barrels per week,0.023,0.021,0.029,0.021,0.023,0.012
+Applies to Commercial Generators,0.006,0.008,0.005,0.008,0.006,0.012
+Recycling Enforced by Hauler,0.014,0.013,0.01,0.013,0.014,0.01
+Carts for Trash,0.008,0.007,0.007,0.007,0.008,0.01
+Applies to Residential Generators not Eligible to be Served by the Municipal Program,0.008,0.01,0.009,0.01,0.008,0.01
+Trash Enforced by Hauler,0.002,0.003,0.005,0.002,0.002,0.009
+Solid Waste program funded by transfer station access fee?,0.004,0.008,0.002,0.007,0.004,0.006
+Non-resident Trash and Recycling Service_Both,0.01,0.015,0.004,0.015,0.01,0.005
+Recycling Service Type_Curbside,0.007,0.008,0.014,0.008,0.007,0.004
+Dedicated Mandatory Recycling Enforcement Personnel,0.003,0.003,0.001,0.004,0.003,0.003
+Trash Service Type_Both,0.005,0.008,0.004,0.008,0.005,0.003
+Trash Enforced by Muni,0.006,0.005,0.005,0.005,0.006,0.002
+# Hours Enforcement Personnel on Street,0.006,0.006,0.006,0.007,0.006,0.0
+Municipal Buildings Trash and Recycling Service_Both,0.006,0.003,0.002,0.003,0.006,0.0
+What is the per-visit fee?,0.024,0.017,0.03,0.016,0.024,0.0
+School Trash and Recycling Service_Recycling,0.005,0.005,0.007,0.005,0.005,0.0
+Municipal Buildings Trash and Recycling Service_Recycling,0.001,0.003,0.003,0.003,0.001,0.0
+Municipal Buildings Trash and Recycling Service_Trash,0.0,0.0,0.0,0.0,0.0,0.0
+Business Trash and Recycling Service_Recycling,0.006,0.007,0.007,0.007,0.006,0.0
+Dedicated Trash Enforcement Personnel,0.0,0.001,0.001,0.001,0.0,0.0
+Non-resident Trash and Recycling Service_Recycling,0.004,0.009,0.0,0.009,0.004,0.0
+Non-resident Trash and Recycling Service_Trash,0.001,0.0,0.0,0.0,0.001,0.0
+Annual Bulky Waste Limit,0.011,0.014,0.005,0.014,0.011,0.0
