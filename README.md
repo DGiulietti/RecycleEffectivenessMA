@@ -34,7 +34,8 @@ Please note that some notebooks or files are just for my reference. If a file or
 * `part3.ipynb` -- setting up the service data for regression and model comparison within separate labels later (in part 4).
 * `part3b.ipynb` -- I needed to take a new analytical approach with my baseline models attempted in part 3. This notebook looks at cross validation and removing the outliers.
   * output was `baseline_models_coefs.csvs` and `baseline_models_scores.csv` to be compared to in part 4.
-* `part4.ipynb` (25% complete)-- statistical assessment of recycling distributions within clusters as compared to the population. further comparison of trends within regression models of the clusters compared to the population
+* `part4.ipynb` -- statistical assessment of recycling distributions within clusters as compared to the population. 
+* `part4b.ipynb` -- further comparison of trends within regression models of the clusters compared to the population
 * data/..
   * `MA_MSW_Collection_Data` -- includes all the csv's I created from the municipal recycling and trash services survey. This includes the tonnages of waste generated.
   * `census_data` -- the csv's I generated from the Census API in the `census.ipynb` notebook
