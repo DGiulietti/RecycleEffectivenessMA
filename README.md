@@ -1,6 +1,10 @@
 # Recycling Effectiveness in MA
 #### *final project overview and updates*
 ---
+## Summary Presentation
+
+To view a summary presentation for this project, please review the [Recycle_presentation](Recycle_presentation.pdf).
+
 ## Problem Statement
 
 This project will explore the effectiveness of recycling in the state of Massachusetts.
